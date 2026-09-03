@@ -1,6 +1,6 @@
 # CatPhotoApp
 
-Uma versão mais simples e em inglês do meu projeto **CatPhotoApp**, desenvolvida durante meus estudos de HTML com apoio do FreeCodeCamp.
+Uma versão mais simples e em inglês do meu projeto **CatPhotoApp**, desenvolvida durante meus estudos de HTML com apoio do freeCodeCamp.
 
 ## Projeto
 
