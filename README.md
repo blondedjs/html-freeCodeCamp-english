@@ -1,20 +1,18 @@
-# Página HTML Simples
+# CatPhotoApp
 
-Um site simples de uma página, desenvolvido em inglês como parte dos meus estudos de HTML com apoio do freeCodeCamp.
+Uma versão mais simples e em inglês do meu projeto **CatPhotoApp**, desenvolvida durante meus estudos de HTML com apoio do FreeCodeCamp.
 
-## Sobre
+## Projeto
 
-Este projeto é uma versão mais leve e simplificada de um projeto HTML anterior que desenvolvi enquanto praticava os fundamentos do desenvolvimento web.
-
-A página utiliza conceitos básicos de estrutura HTML, formatação de textos, links, e imagens.
+Este projeto é uma versão mais leve, composta por uma única página, criada para praticar os fundamentos do HTML e dar meus primeiros passos no desenvolvimento web.
 
 ## Tecnologias
 
 * HTML5
 
-## Aprendizado
+## Acesse o projeto
 
-Este projeto foi desenvolvido com o apoio do freeCodeCamp como parte dos meus estudos em desenvolvimento web.
+[CatPhotoApp](https://blondedjs.github.io/html-freeCodeCamp-english/)
 
 ## Autor
 
